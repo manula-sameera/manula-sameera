@@ -1,0 +1,221 @@
+```json
+{
+  "basics": {
+    "name": "Manula Sameera",
+    "label": "Software Developer",
+    "email": "manulasameera@hotmail.co.uk",
+    "summary": "",
+    "location": {
+      "city": "Kegalle",
+      "countryCode": "Sri Lanka"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Manula.GitHub",
+        "url": "https://github.com/manula-sameera"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Manula Sameera",
+        "url": "http://www.linkedin.com/in/manula-sameera"
+      },
+      {
+        "network": "Facebook",
+        "username": "Manula Sameera",
+        "url": "https://web.facebook.com/manula.sameera"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "University of Vocational Technology",
+      "area": "Software Technology",
+      "studyType": "Bachelor",
+      "startDate": "2021",
+      "endDate": "2024",
+      "gpa": "",
+      "courses": [
+        "Computer & Web Programming",
+        "Data Structures and Algorithms",
+        "Software Architectures and Design",
+        "Cloud Based Application Development",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "institution": "Vocational Training Authority",
+      "area": "Information Technology",
+      "studyType": "NVQ 5",
+      "startDate": "2018",
+      "endDate": "2018",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Dudley Senanayake Central College",
+      "area": "Mathematics",
+      "studyType": "Advanced Level",
+      "startDate": "",
+      "endDate": "2015",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Dudley Senanayake Central College",
+      "area": "",
+      "studyType": "Ordinary Level",
+      "startDate": "",
+      "endDate": "2012",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "work": [
+    {
+      "name": "Vocational Training Center",
+      "location": {
+        "city": "Helboda",
+        "countryCode": "Sri Lanka"
+      },
+      "position": "Instructor - ICT - NVQ Level 04",
+      "startDate": "2021",
+      "summary": "Delivered highly engaging and interactive lectures and hands-on practical sessions in Office package, networking, graphics design, and software programming focused on current industry knowledge and skills. Equipped students with up-to-date technical skills and industry knowledge resulting in high certification pass rates and preparedness for successful careers. Guided students to do projects for impactful real-world learning and career readiness."
+    },
+    {
+      "name": "Vocational Training Center",
+      "location": {
+        "city": "Ruwanwella",
+        "countryCode": "Sri Lanka"
+      },
+      "position": "Demonstrator - ICT - NVQ Level 04",
+      "startDate": "2020",
+      "endDate": "2021",
+      "summary": "Responsible for assisting and instructing students in the classroom and lab settings. Guided practical sessions and managed classrooms for impactful student learning. Students gained practical IT abilities through hands-on learning and engagement for career readiness."
+    },
+    {
+      "name": "Department of Registrar of Companies",
+      "location": {
+        "city": "Colombo",
+        "countryCode": "Sri Lanka"
+      },
+      "position": "IT Trainee",
+      "startDate": "2019",
+      "endDate": "2020",
+      "summary": "Monitored and maintained networks for optimal performance. Tested and analyzed systems to identify and report bugs. Implemented requirements using Java, MySQL; performed database management and troubleshooting. Gained hands-on experience in IT infrastructure management, implementations, and key technologies to career buildup."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "Intermediate",
+      "keywords": [
+        "C#",
+        "Java",
+        "JavaScript",
+        "C++"
+      ]
+    },
+    {
+      "name": "Backend Technologies",
+      "level": "Intermediate",
+      "keywords": [
+        ".NET",
+        "PHP"
+      ]
+    },
+    {
+      "name": "Frontend Technologies",
+      "level": "Intermediate",
+      "keywords": [
+        "ReactJS",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Database Management",
+      "level": "Intermediate",
+      "keywords": [
+        "MySQL",
+        "MSSQL"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "Intermediate",
+      "keywords": [
+        "VS Code",
+        "IntelliJ Idea",
+        "Workbench"
+      ]
+    },
+    {
+      "name": "Version Control",
+      "level": "Intermediate",
+      "keywords": [
+        "CICD with GIT"
+      ]
+    },
+    {
+      "name": "Soft Skills",
+      "level": "",
+      "keywords": [
+        "Problem Analytic Skills",
+        "Excellent communication",
+        "Leadership & Teamwork",
+        "Attention to Detail"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Cisco Certified Network Associate (CCNA)",
+      "issuer": "Cisco Networking Academy"
+    }
+  ],
+  "projects": [
+    {
+      "name": "QMS Management System",
+      "highlights": [
+        "System built using Java to manage Kegalle VTA institute activities"
+      ],
+      "keywords": [
+        "Java"
+      ],
+      "startDate": "",
+      "endDate": "",
+      "url": "",
+      "roles": [
+        "Developer"
+      ],
+      "entity": "",
+      "type": "Application"
+    },
+    {
+      "name": "Weather APP",
+      "highlights": [
+        "Weather forecasting web using HTML, CSS & JavaScript"
+      ],
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "startDate": "",
+      "endDate": "",
+      "url": "",
+      "roles": [
+        "Developer"
+      ],
+      "entity": "",
+      "type": "Application"
+    }
+  ]
+}
+```
