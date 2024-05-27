@@ -29,7 +29,7 @@ const manula = {
     currentFocus: "NextJS",
 };
 ```
-
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=7fd6f558e2d6274dfcf3960db457998f)](https://gist.github.com/manula-sameera/7fd6f558e2d6274dfcf3960db457998f)
 
 <!--
 **manula-sameera/manula-sameera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
