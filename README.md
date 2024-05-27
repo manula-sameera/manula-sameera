@@ -11,6 +11,29 @@
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manula-sameera&card_width=320&hide=css&langs_count=10" />
 </a>
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "C#", "Java", "PHP","C++"],
+    askMeAbout: ["web dev", "tech", "app dev", "gamer"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Next", "React"],
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        devOps: ["Azure", "Google Cloud"],
+        databases: ["SQLServer", "MySql", "sqlite"],
+        misc: ["Firebase", "selenium", "php"]
+    },
+    architecture: ["Progressive web applications", "Single page applications"],
+    currentFocus: "NextJS",
+};
+```
+
 <!--
 **manula-sameera/manula-sameera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
