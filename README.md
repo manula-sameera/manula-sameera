@@ -4,7 +4,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=manula-sameera&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manula-sameera&card_width=320&hide=css&langs_count=10" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manula-sameera&card_width=320&hide=css&langs_count=10&show_icons=true&theme=transparent" />
 </a>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
