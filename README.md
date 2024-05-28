@@ -16,7 +16,11 @@ const manula = {
     askMeAbout: ["web dev", "tech", "app dev", "gamer"],
     technologies: {
         backEnd: {
-            js: ["Node", "Next", "React"],
+            js: ["Node"],
+API:[".NET","php"]
+        },
+frontEnd: {
+            js: ["Next", "React"],
         },
         mobileApp: {
             native: ["Android Development"]
