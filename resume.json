@@ -2,9 +2,9 @@
   "basics": {
     "name": "Manula Sameera",
     "label": "Software Developer & Researcher",
-    "email": "manulasameera@hotmail.co.uk",
+    "email": "contact@manulasameera.dev",
     "url": "https://manulasameera.dev",
-    "summary": "Building thoughtful digital systems for the real world. Developer & researcher working across full-stack web, mobile, and IoT — currently shipping public-sector software in Sri Lanka and exploring smart-agriculture mesh networks.",
+    "summary": "Building thoughtful digital systems for the real world. Developer & researcher working across full-stack web and mobile. — currently shipping public-sector software in Sri Lanka.",
     "location": {
       "city": "Kegalle",
       "countryCode": "LK"
@@ -188,8 +188,7 @@
       "name": "Practice",
       "keywords": [
         "CI/CD with Git",
-        "VS Code",
-        "IntelliJ IDEA"
+        "VS Code"
       ]
     }
   ],

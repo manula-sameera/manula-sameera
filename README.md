@@ -23,7 +23,5 @@
     <a href="https://manulasameera.dev">manulasameera.dev</a>
     &nbsp;·&nbsp;
     <a href="https://www.linkedin.com/in/manula-sameera">LinkedIn</a>
-    &nbsp;·&nbsp;
-    <a href="mailto:manulasameera@hotmail.co.uk">Email</a>
   </sub>
 </p>

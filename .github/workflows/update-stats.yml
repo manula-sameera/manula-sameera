@@ -26,7 +26,10 @@ jobs:
       - name: Generate stats SVGs
         run: node scripts/generate-stats.mjs
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # STATS_TOKEN: classic PAT with repo + read:user scopes, needed for
+          # private contribution counts. Falls back to the default token
+          # (public data only) if the secret is not set.
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Commit if changed
         run: |
