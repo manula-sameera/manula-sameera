@@ -1,23 +1,24 @@
 {
   "basics": {
     "name": "Manula Sameera",
-    "label": "Software Developer",
+    "label": "Software Developer & Researcher",
     "email": "manulasameera@hotmail.co.uk",
-    "summary": "",
+    "url": "https://manulasameera.dev",
+    "summary": "Building thoughtful digital systems for the real world. Developer & researcher working across full-stack web, mobile, and IoT — currently shipping public-sector software in Sri Lanka and exploring smart-agriculture mesh networks.",
     "location": {
       "city": "Kegalle",
-      "countryCode": "Sri Lanka"
+      "countryCode": "LK"
     },
     "profiles": [
       {
         "network": "GitHub",
-        "username": "Manula.GitHub",
+        "username": "manula-sameera",
         "url": "https://github.com/manula-sameera"
       },
       {
         "network": "LinkedIn",
         "username": "Manula Sameera",
-        "url": "http://www.linkedin.com/in/manula-sameera"
+        "url": "https://www.linkedin.com/in/manula-sameera"
       },
       {
         "network": "Facebook",
@@ -26,143 +27,169 @@
       }
     ]
   },
+  "work": [
+    {
+      "name": "Presidential Secretariat",
+      "location": {
+        "city": "Colombo",
+        "countryCode": "LK"
+      },
+      "position": "Information Technology Assistant",
+      "startDate": "2026",
+      "summary": "Focused exclusively on software development for the President's Office — shipping internal tools, line-of-business systems, and public-facing platforms. Building across the stack with .NET, modern web frameworks, and SQL databases; coordinating closely with stakeholders on requirements and rollout."
+    },
+    {
+      "name": "Divisional Secretariat",
+      "location": {
+        "city": "Aranayake",
+        "countryCode": "LK"
+      },
+      "position": "Information Technology Assistant",
+      "startDate": "2024",
+      "endDate": "2026",
+      "summary": "Developed and managed IT solutions across software, database administration, website management, and ICT policy drafting for the secretariat. Administered networks and ensured security — covering maintenance, troubleshooting, cybersecurity, and end-to-end IT project implementation."
+    },
+    {
+      "name": "Vocational Training Authority",
+      "location": {
+        "city": "Helboda",
+        "countryCode": "LK"
+      },
+      "position": "Instructor - ICT (NVQ Level 4)",
+      "startDate": "2021",
+      "endDate": "2024",
+      "summary": "Delivered engaging lectures and hands-on practical sessions across Office productivity, networking, graphics design, and software programming. Equipped students with current industry skills, resulting in high certification pass rates and strong career-readiness outcomes. Guided real-world project work that anchored theory in genuine problems and impact."
+    },
+    {
+      "name": "Vocational Training Authority",
+      "location": {
+        "city": "Ruwanwella",
+        "countryCode": "LK"
+      },
+      "position": "Demonstrator - ICT (NVQ Level 4)",
+      "startDate": "2020",
+      "endDate": "2021",
+      "summary": "Assisted and instructed students across classroom and lab environments. Ran practical sessions and managed lab logistics for cohort-based learning. Helped students convert practical IT skills into measurable career-readiness."
+    },
+    {
+      "name": "Department of Registrar of Companies",
+      "location": {
+        "city": "Colombo",
+        "countryCode": "LK"
+      },
+      "position": "IT Trainee",
+      "startDate": "2019",
+      "endDate": "2020",
+      "summary": "Monitored and maintained networks for optimal performance; tested and analyzed systems to identify and report bugs. Implemented requirements in Java and MySQL and performed database management and troubleshooting. Built early hands-on experience with IT infrastructure and core technologies."
+    }
+  ],
   "education": [
     {
       "institution": "University of Vocational Technology",
       "area": "Software Technology",
-      "studyType": "Bachelor",
+      "studyType": "Bachelor of Technology",
       "startDate": "2021",
-      "endDate": "2024",
+      "endDate": "",
       "gpa": "",
       "courses": [
         "Computer & Web Programming",
         "Data Structures and Algorithms",
-        "Software Architectures and Design",
-        "Cloud Based Application Development",
+        "Software Architecture and Design",
+        "Cloud-Based Application Development",
         "Artificial Intelligence"
       ]
     },
     {
       "institution": "Vocational Training Authority",
       "area": "Information Technology",
-      "studyType": "NVQ 5",
+      "studyType": "NVQ Level 5",
       "startDate": "2018",
       "endDate": "2018",
       "gpa": "",
-      "courses": []
+      "courses": [
+        "Networking",
+        "Database Administration",
+        "OS Administration",
+        "Software Engineering"
+      ]
     },
     {
       "institution": "Dudley Senanayake Central College",
-      "area": "Mathematics",
-      "studyType": "Advanced Level",
+      "area": "Mathematics Stream",
+      "studyType": "G.C.E. Advanced Level",
       "startDate": "",
       "endDate": "2015",
       "gpa": "",
-      "courses": []
+      "courses": [
+        "Combined Mathematics",
+        "Physics",
+        "ICT"
+      ]
     },
     {
       "institution": "Dudley Senanayake Central College",
       "area": "",
-      "studyType": "Ordinary Level",
+      "studyType": "G.C.E. Ordinary Level",
       "startDate": "",
       "endDate": "2012",
       "gpa": "",
       "courses": []
     }
   ],
-  "work": [
-    {
-      "name": "Vocational Training Center",
-      "location": {
-        "city": "Helboda",
-        "countryCode": "Sri Lanka"
-      },
-      "position": "Instructor - ICT - NVQ Level 04",
-      "startDate": "2021",
-      "summary": "Delivered highly engaging and interactive lectures and hands-on practical sessions in Office package, networking, graphics design, and software programming focused on current industry knowledge and skills. Equipped students with up-to-date technical skills and industry knowledge resulting in high certification pass rates and preparedness for successful careers. Guided students to do projects for impactful real-world learning and career readiness."
-    },
-    {
-      "name": "Vocational Training Center",
-      "location": {
-        "city": "Ruwanwella",
-        "countryCode": "Sri Lanka"
-      },
-      "position": "Demonstrator - ICT - NVQ Level 04",
-      "startDate": "2020",
-      "endDate": "2021",
-      "summary": "Responsible for assisting and instructing students in the classroom and lab settings. Guided practical sessions and managed classrooms for impactful student learning. Students gained practical IT abilities through hands-on learning and engagement for career readiness."
-    },
-    {
-      "name": "Department of Registrar of Companies",
-      "location": {
-        "city": "Colombo",
-        "countryCode": "Sri Lanka"
-      },
-      "position": "IT Trainee",
-      "startDate": "2019",
-      "endDate": "2020",
-      "summary": "Monitored and maintained networks for optimal performance. Tested and analyzed systems to identify and report bugs. Implemented requirements using Java, MySQL; performed database management and troubleshooting. Gained hands-on experience in IT infrastructure management, implementations, and key technologies to career buildup."
-    }
-  ],
   "skills": [
     {
-      "name": "Programming Languages",
-      "level": "Intermediate",
+      "name": "Languages",
       "keywords": [
         "C#",
         "Java",
         "JavaScript",
-        "C++"
+        "TypeScript",
+        "C++",
+        "Dart"
       ]
     },
     {
-      "name": "Backend Technologies",
-      "level": "Intermediate",
+      "name": "Backend",
       "keywords": [
         ".NET",
-        "PHP"
+        "PHP",
+        "Node.js",
+        "Firebase Functions"
       ]
     },
     {
-      "name": "Frontend Technologies",
-      "level": "Intermediate",
+      "name": "Frontend",
       "keywords": [
-        "ReactJS",
-        "Bootstrap"
+        "React",
+        "Next.js",
+        "Flutter",
+        "Bootstrap",
+        "Tailwind"
       ]
     },
     {
-      "name": "Database Management",
-      "level": "Intermediate",
+      "name": "Data",
       "keywords": [
         "MySQL",
-        "MSSQL"
+        "MSSQL",
+        "Firestore",
+        "Firebase"
       ]
     },
     {
-      "name": "Tools",
-      "level": "Intermediate",
+      "name": "Hardware",
       "keywords": [
+        "ESP32",
+        "painlessMesh",
+        "IoT Sensors"
+      ]
+    },
+    {
+      "name": "Practice",
+      "keywords": [
+        "CI/CD with Git",
         "VS Code",
-        "IntelliJ Idea",
-        "Workbench"
-      ]
-    },
-    {
-      "name": "Version Control",
-      "level": "Intermediate",
-      "keywords": [
-        "CICD with GIT"
-      ]
-    },
-    {
-      "name": "Soft Skills",
-      "level": "",
-      "keywords": [
-        "Problem Analytic Skills",
-        "Excellent communication",
-        "Leadership & Teamwork",
-        "Attention to Detail"
+        "IntelliJ IDEA"
       ]
     }
   ],
@@ -180,39 +207,60 @@
   ],
   "projects": [
     {
-      "name": "QMS Management System",
+      "name": "Smart Agriculture IoT Management App",
       "highlights": [
-        "System built using Java to manage Kegalle VTA institute activities"
+        "Flutter application for managing ESP32-based Smart Agriculture mesh networks (SmartAgriMesh) with real-time sensor monitoring, data visualization, and AI analytics"
       ],
       "keywords": [
-        "Java"
+        "Flutter",
+        "IoT",
+        "ESP32",
+        "Mobile"
       ],
-      "startDate": "",
+      "startDate": "2025",
       "endDate": "",
-      "url": "",
+      "url": "https://manulasameera.dev/projects",
       "roles": [
-        "Developer"
+        "Developer",
+        "Researcher"
       ],
-      "entity": "",
       "type": "Application"
     },
     {
-      "name": "Weather APP",
+      "name": "Mobile Government Service Feedback System",
       "highlights": [
-        "Weather forecasting web using HTML, CSS & JavaScript"
+        "PHP-based system for tracking and gathering feedback from participants of mobile government services — public form with reCAPTCHA protection and a secure admin panel with issue tracking and reporting"
       ],
       "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
+        "PHP",
+        "MySQL",
+        "Bootstrap",
+        "jQuery"
       ],
-      "startDate": "",
+      "startDate": "2025",
       "endDate": "",
-      "url": "",
+      "url": "https://manulasameera.dev/projects",
       "roles": [
         "Developer"
       ],
-      "entity": "",
+      "type": "Application"
+    },
+    {
+      "name": "Leave Management System",
+      "highlights": [
+        "Enterprise-grade Flutter application for managing employee leave requests — complete workflow from application submission to approval, with multi-language support and real-time notifications"
+      ],
+      "keywords": [
+        "Flutter",
+        "HR",
+        "Mobile"
+      ],
+      "startDate": "2025",
+      "endDate": "",
+      "url": "https://manulasameera.dev/projects",
+      "roles": [
+        "Developer"
+      ],
       "type": "Application"
     }
   ]

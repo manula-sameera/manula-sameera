@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Manula Sameera — Developer &amp; Researcher">
+  <defs>
+    <clipPath id="frame"><rect width="1200" height="300" rx="16"/></clipPath>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7f6fc"/><stop offset="1" stop-color="#efedf8"/>
+    </linearGradient>
+    <radialGradient id="oa" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#8257d8" stop-opacity="0.28"/><stop offset="1" stop-color="#8257d8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="ob" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#2b7fd9" stop-opacity="0.28"/><stop offset="1" stop-color="#2b7fd9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="oc" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#d9538f" stop-opacity="0.22400000000000003"/><stop offset="1" stop-color="#d9538f" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="grain"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/></filter>
+    <style>
+      .drift-a { animation: da 26s ease-in-out infinite alternate; }
+      .drift-b { animation: db 32s ease-in-out infinite alternate; }
+      .drift-c { animation: dc 24s ease-in-out infinite alternate; }
+      @keyframes da { from { transform: translate(0,0);} to { transform: translate(60px,24px);} }
+      @keyframes db { from { transform: translate(0,0);} to { transform: translate(-70px,-20px);} }
+      @keyframes dc { from { transform: translate(0,0);} to { transform: translate(40px,-30px);} }
+    </style>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <g class="drift-a"><circle cx="140" cy="60" r="260" fill="url(#oa)"/></g>
+    <g class="drift-b"><circle cx="1080" cy="230" r="300" fill="url(#ob)"/></g>
+    <g class="drift-c"><circle cx="700" cy="330" r="240" fill="url(#oc)"/></g>
+    <rect width="1200" height="300" filter="url(#grain)" opacity="0.04"/>
+
+    <!-- brand chip -->
+    <g font-family="ui-monospace,'Cascadia Code','JetBrains Mono','Fira Code',Consolas,monospace" font-size="13">
+      <rect x="48" y="44" width="118" height="30" rx="15" fill="rgba(255,255,255,0.65)" stroke="rgba(17,16,42,0.14)"/>
+      <circle cx="66" cy="59" r="3.5" fill="#2b7fd9"/>
+      <text x="78" y="63.5" fill="#3f3c60">MS &#183; v3</text>
+    </g>
+
+    <!-- name + role -->
+    <text x="48" y="158" font-family="-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="52" font-weight="700" letter-spacing="-1" fill="#11102a">Manula Sameera</text>
+    <text x="48" y="196" font-family="ui-monospace,'Cascadia Code','JetBrains Mono','Fira Code',Consolas,monospace" font-size="16" fill="#3f3c60">Developer &amp; Researcher &#8212; full-stack web &#183; Flutter &#183; IoT</text>
+
+    <!-- footer row -->
+    <g font-family="ui-monospace,'Cascadia Code','JetBrains Mono','Fira Code',Consolas,monospace" font-size="13" fill="#6f6b92">
+      <text x="48" y="252">Kegalle, Sri Lanka &#183; GMT+5:30</text>
+      <text x="1152" y="252" text-anchor="end" fill="#2b7fd9">manulasameera.dev</text>
+    </g>
+
+    <!-- hairlines -->
+    <line x1="48" y1="222" x2="1152" y2="222" stroke="rgba(17,16,42,0.09)"/>
+    <rect x="0.5" y="0.5" width="1199" height="299" rx="15.5" fill="none" stroke="rgba(17,16,42,0.14)"/>
+  </g>
+</svg>
